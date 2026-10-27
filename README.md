@@ -1,6 +1,6 @@
 # CLL Ratio Calculator
 
-A desktop ratio calculator for **Factorio 2.1 · Space Age**, made by **CHILLLOUNGE**.
+A desktop ratio calculator for **Factorio 2.1 · Space Age**.
 
 Pick what you want to produce and how much of it, and the calculator works out the whole production chain: how many machines you need, how many belts, which raw resources and how much power. It also helps you plan smelting columns, power plants and the equipment grid of your armor.
 
@@ -266,4 +266,4 @@ It is shared for free so that anyone can use it. There is no warranty of any kin
 
 ### Made by
 
-**CHILLLOUNGE** – TrRACCOON
+**CHILLLOUNGE** – TrRACCOON with help of AI
